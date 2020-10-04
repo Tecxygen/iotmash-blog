@@ -1,8 +1,17 @@
----
+<!-- ---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-10-01 19:14:20 +0800
 categories: jekyll update
+--- -->
+---
+title:  "Welcome to Jekyll!"
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
+tags:
+  - update
 ---
 ## Change
 ### Change2
